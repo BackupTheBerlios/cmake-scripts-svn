@@ -1,0 +1,10 @@
+These CMake scripts are used in my projects' CMakeLists.txt files. Most of
+them are used to locate libraries needed by the projects. Some of
+them were downloaded from the web and been possibly modified. Some others
+are based on those dowloaded from the web, but try to find other libraries.
+
+All the comments at the beginning of the scripts are kept intact, after them
+might come some of my own comments. I also try to indicate where I got the
+original files from.
+
+See the accompaining `LICENSE' file for copying information.
